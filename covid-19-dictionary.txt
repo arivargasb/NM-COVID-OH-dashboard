@@ -1,0 +1,256 @@
+Phrase	DisplayAs	IPA	SoundsLike
+airborne	airborne	eɪ ɹ b ɔ ɹ n
+Anthony-Fauci	Anthony Fauci	æ n θ ə n i f aʊ ʧ i
+anti-malaria	anti-malaria	æ n t i m ə l ɛ ɹ i ə
+antibiotic	antibiotic	æ n t aɪ b aɪ ɑ t ɪ k
+antibodies	antibodies	æ n t i b ɑ d i z
+antibody	antibody	æ n t i b ɑ d i
+antibody-test	antibody test	æ n t i b ɑ d i t ɛ s t
+antibody-tests	antibody tests	æ n t i b ɑ d i t ɛ s t s
+A.R.D.S.	ARDS	eɪ ɑ ɹ d i ɛ s
+asymptomatic	asymptomatic	eɪ s ɪ m t ə m æ t ɪ k
+bioethicist	bioethicist	b aɪ oʊ ɛ θ ɪ s ɪ s t
+bioethics	bioethics	b aɪ oʊ ɛ θ ɪ k s
+biophysics	biophysics	b aɪ oʊ f ɪ z ɪ k s
+C.D.C.	CDC	s i d i s i
+centrifuge	centrifuge	s ɛ n t ɹ ɪ f j u ʒ
+centrifuges	centrifuges	s ɛ n t ɹ ɪ f j u ʒ ɪ z
+centrifuging	centrifuging	s ɛ n t ɹ ɪ f j u ʒ ɪ ŋ
+chikungunya	chikungunya	ʧ ɪ k ə ŋ g ʊ n j ə
+chloroquine	chloroquine	k l ɔ ɹ ə k w ɪ n
+civet	civet	s ɪ v ɪ t
+Clorox-wipes	Clorox wipes	k l ɔ ɹ ɑ k s w aɪ p s
+Coachella	Coachella	k oʊ ʧ ɛ l ə
+cordon-sanitaire	cordon sanitaire	k ɔ ɹ d ɑ n s æ n ɪ t eɪ ɹ
+coronavirus	coronavirus	k ə ɹ oʊ n ə v aɪ ɹ ɪ s
+COVID	COVID	k oʊ v ɪ d
+COVID-nineteen	COVID-19	k oʊ v ɪ d n aɪ n t i n
+curfews	curfews	k ə ɹ f j u z
+diarrhea	diarrhea	d aɪ ə ɹ i ə
+D.N.A.	DNA	d i ɛ n eɪ
+Donald-Trump	Donald Trump	d ɑ n ə l d t ɹ ʌ m p
+Dr-Fauci	Dr. Fauci	d ɑ k t ə ɹ f aʊ ʧ i
+Ebola	Ebola	ɪ b oʊ l ə
+epidemic	epidemic	ɛ p ə d ɛ m ɪ k
+fallout	fallout	f ɑ l aʊ t
+Fauci	Fauci	f aʊ ʧ i
+favipiravir	favipiravir	f æ v ɪ p ɪ ɹ ə v i ɹ
+F.D.A.	FDA	ɛ f d i eɪ
+fibrosis	fibrosis	f aɪ b ɹ oʊ s ɪ s
+flattening-the-curve	flattening the curve	f l æ t n ɪ ŋ ð ə k ɹ v
+H.I.M.S.S.	HIMSS	h ɪ m z
+H.I.V.	HIV	eɪ ʧ aɪ v i
+hydroxychloroquine	hydroxychloroquine	h aɪ d ɹ ɑ k s i k l ɔ ɹ ə k w ɪ n
+hyperinflammation	hyperinflammation	h aɪ p ɹ ɪ n f l ə m eɪ ʃ ə n
+I.C.U.	ICU	aɪ s i j u
+I.C.U.-s	ICUs	aɪ s i j u z
+immunology	immunology	ɪ m j u n ɑ l ə ʤ i
+immunosuppression	immunosuppression	ɪ m j u n oʊ s ə p ɹ ɛ ʃ ə n
+incubation	incubation	ɪ ŋ k j u b eɪ ʃ ə n
+influenza	influenza	ɪ n f l u ɛ n z ə
+isolation	isolation	aɪ s oʊ l eɪ ʃ ə n
+lockdown	lockdown	l ɑ k d aʊ n
+malaria	malaria	m ə l ɛ ɹ i ə
+MERS	MERS	m ə ɹ z
+misinformation	misinformation	m ɪ s ɪ n f ɔ ɹ m eɪ ʃ ə n
+morbidity	morbidity	m ɔ ɹ b ɪ d ɪ t i
+mortality	mortality	m ɔ ɹ t æ l ɪ t i
+N-ninety-five	N95	ɛ n n aɪ n d i f aɪ v
+nasopharynx	nasopharynx	n eɪ z oʊ f æ ɹ ɪ ŋ k s
+N.B.A.	NBA	ɛ n b i eɪ
+nCoV	nCoV	ɛ n k oʊ v i
+N.I.H.	NIH	ɛ n aɪ eɪ ʧ
+novel-coronavirus	novel coronavirus	n ɑ v l̩ k ə ɹ oʊ n ə v aɪ ɹ ɪ s
+Olympics	Olympics	ə l ɪ m p ɪ k s
+OSHA	OSHA	oʊ ʃ ə
+O.T.C.	OTC	oʊ t i s i
+outbreak	outbreak	aʊ t b ɹ eɪ k
+over-the-counter	over-the-counter	oʊ v ə ɹ ð ə k aʊ n ə ɹ
+pandemic	pandemic	p æ n d ɛ m ɪ k
+pangolin	pangolin	p æ ŋ g ə l ɪ n
+P.C.R.-test	PCR test	p i s i ɑ ɹ t ɛ s t
+personal-protective-equipment	personal protective equipment	p ə ɹ s ə n ə l p ɹ ə t ɛ k t ɪ v ə k w ɪ p m ɛ n t
+pneumonia	pneumonia	n u m oʊ n j ə
+P.P.E.	PPE	p i p i i
+pre-symptomatic	pre-symptomatic	p ɹ i s ɪ m t ə m æ t ɪ k
+presumptive-positive-case	presumptive positive case	p ɹ ɪ z ʌ m p t ɪ v p ɑ z ɪ t ɪ v k eɪ s
+pulmonary	pulmonary	p ʌ l m ə n eɪ ɹ i
+quarantine	quarantine	k w ɔ ɹ ə n t i n
+quinine	quinine	k w aɪ n aɪ n
+R-naught	R0	ɑ ɹ n ɔ t
+remdesivir	remdesivir	ɹ ɛ m d ɛ s ə v i ɹ
+Resochin	Resochin	ɹ ɛ z oʊ ʧ ɪ n
+R.N.A.	RNA	ɑ ɹ ɛ n eɪ
+saliva	saliva	s ə l aɪ v ə
+sanitizer	sanitizer	s æ n ɪ t aɪ z ə ɹ
+SARS	SARS	s ɑ ɹ z
+SARS-CoV-two	SARS-CoV-2	s ɑ ɹ z k oʊ v i t u
+self-isolating	self-isolating	s ɛ l f aɪ s oʊ l eɪ t ɪ ŋ
+self-isolation	self-isolation	s ɛ l f aɪ s oʊ l eɪ ʃ ə n
+serological	serological	s i ɹ ə l ɑ ʤ ɪ k l̩
+serum	serum	s i ɹ ə m
+social-distancing	social distancing	s oʊ ʃ ə l d ɪ s t ə n s ɪ ŋ
+socioeconomic-disruption	socioeconomic disruption	s oʊ s i oʊ ɛ k ə n ɑ m ɪ k d ɪ s ɹ ʌ p ʃ ə n
+stock-buyback	stock buyback	s t ɑ k b aɪ b æ k
+superspreader	superspreader	s u p ə ɹ s p ɹ ɛ d ə ɹ
+symptomatic	symptomatic	s ɪ m t ə m æ t ɪ k
+toilet-paper	toilet paper	t ɔɪ l ɪ t p eɪ p ə ɹ
+vaccine	vaccine	v æ k s i n
+ventilator	ventilator	v ɛ n t ɪ l eɪ t ə ɹ
+ventilators	ventilators	v ɛ n t ɪ l eɪ t ə ɹ z
+W.H.O.	WHO	d ʌ b ə l j u eɪ ʧ oʊ
+Wuhan	Wuhan	w u h ɑ n
+xenophobia	xenophobia	z i n ə f oʊ b i ə
+xenophobic	xenophobic	z i n ə f oʊ b ɪ k
+Xi-Jinping	Xi Jinping	ʃ i ʒ ɪ n p ɪ ŋ
+Zika	Zika	z i k ə
+Zithromax	Zithromax	z ɪ θ ɹ oʊ m æ k s
+zoonotic	zoonotic	z oʊ ə n ɑ t ɪ k
+acute-respiratory-distress-syndrome	acute respiratory distress syndrome	ə k j u t ɹ ɛ s p ɪ ɹ ə t ɔ ɹ i d ɪ s t ɹ ɛ s s ɪ n d ɹ oʊ m
+oximeter	oximeter
+Dexamethasone	dexamethasone
+proning	proning
+prone	prone	
+prone-positioning	prone positioning
+texas	Texas
+echocardiagram	echocardiogram
+monoclonal	monoclonal
+facebook	Facebook
+regeneron	Regeneron
+cytokine-storm	cytokine-storm
+syndrome	syndrome
+acute-respiratory	acute-respiratory
+distress-syndrome	distress-syndrome
+nursing-home	nursing home
+nursing-homes	nursing homes	
+publication	publication	
+centrifuge	centrifuge
+moderna	Moderna
+safety	safety
+immunogenicity	immunogenicity
+mrna	mRNA
+adults	adults
+older	older
+dose	dose
+doses	doses
+neutralizing	neutralizing
+neutralize	neutralize
+t-cell	t-cell
+prophylaxis	prophylaxis
+placebo	placebo
+randomized-controlled-trial	randomized controlled trial
+r-c-t	RCT
+mitigation	mitigation
+non-critical	non-critical
+anosmia	anosmia
+astenia	astenia
+dyspnea	dyspnea
+auscultation	auscultation
+flu-like	flu-like
+mitigation	mitigation
+ripple-effect	Ripple-effect
+diagnosis	diagnosis
+patients	patients
+positives	positives
+invasive	invasive
+immune	immune
+milder	milder
+inflammatory	inflammatory
+severe	severe
+gamma	Gamma
+innate	innate
+adaptive-response	adaptive response
+systematic	systematic
+review	review
+interferon	interferon
+molecule	molecule
+albuquerque	Albuquerque 
+handwashing	handwashing
+non-healthcare	non-healthcare
+nevada	Nevada
+oklahoma	Oklahoma
+subjective-fever	subjective fever
+emesis	emesis
+polyuria	polyuria
+obesity	obesity
+diabetes	diabetes
+family-hx	family hx
+chills	chills
+polydipsia	polydipsia
+lightheaded	lightheaded
+Viral-infection	viral infection
+tachycardic	tachycardic
+bmi	BMI
+rescovid vent settingspiratory-rate	respiratory rate
+nontender	nontender
+obese	obese
+anion-gap	anion gap
+troponin	troponin
+lactate	lactate
+slide	slide
+potassium	potassium
+bicarb	bicarb
+subq	subq
+hemoglobin-a-1-c	Ha1c
+self-proning	self proning
+glargine	Glargine
+ecmo	ECMO
+ino	iNO	
+aprv	APRV
+glycemic	glycemic
+series	series
+jama	JAMA
+millimeter	millimeter
+renin-angiotensin	Renin Angiotensin
+ace-inhibitors	ace inhibitors
+edema	edema
+ace-expression	ace expression
+ace-2	ACE2
+ARBS	ARBS
+adipose	adipose
+barotrauma	barotrauma
+vasodilator	vasodilator
+adipocytes	adipocytes
+adipocynes	adipocynes
+a-one-c	a1c
+discharged	discharged
+endocrinology	endocrinology
+saliva
+np-swab	NP swab
+nasopharyngeal
+swab
+susceptibility
+type-1-ifn	Type I IFN
+auto-antibodies	auto antibodies
+plasma
+convalescent
+monoclonal-abs	monoclonal abs
+auto-abs	auto abs
+plasmapheresis
+reactive-b-cells	reactive B cells
+inhaled-ifn-beta	inhaled IFB beta
+kobe	COVID
+older
+mmwr	MMWR
+affected
+observed
+peak
+ed	ED
+infect
+hhs	HHS
+of
+data
+il-17
+age
+adults
+studies
+viral
+toll-like	Toll-like
+lipopolysaccharide
+enzyme
+Type-1
+virus
+cytokine
+IRF
+nasopharyngeal
+oropharyngeal

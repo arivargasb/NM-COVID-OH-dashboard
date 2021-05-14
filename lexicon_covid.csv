@@ -1,0 +1,76 @@
+term;treatment;symptom;spread;biology;determinants;immunization;organizations;research;statistics
+antibody therapy;1;0;0;0;0;0;0;0;0antibody;1;0;0;0;0;0;0;0;0
+antibodies;1;0;0;0;0;0;0;0;0antivirals;1;0;0;0;0;0;0;0;0antiviral;1;0;0;0;0;0;0;0;0convalescent plasma;1;0;0;0;0;0;0;0;0plasmeresis;1;0;0;0;0;0;0;0;0
+corticosteroids;1;0;0;0;0;0;0;0;0
+glucocorticoid;1;0;0;0;0;0;0;0;0
+steroids;1;0;0;0;0;0;0;0;0plasma;1;0;0;0;0;0;0;0;0dexamethasone;1;0;0;0;0;0;0;0;0monoclonal antibodies;1;0;0;0;0;0;0;0;0monoclonal;1;0;0;0;0;0;0;0;0pharmacovigilance;1;0;0;0;0;0;0;0;0proning;1;0;0;0;0;0;0;0;0prone;1;0;0;0;0;0;0;0;0remdesivir;1;0;0;0;0;0;0;0;0
+heparin;1;0;0;0;0;0;0;0;0sarilumab;1;0;0;0;0;0;0;0;0tocilizumab;1;0;0;0;0;0;0;0;0cell based therapies;1;0;0;0;0;0;0;0;0cell based therapy;1;0;0;0;0;0;0;0;0cell;1;0;0;0;0;0;0;0;0dose;1;0;0;0;0;0;0;0;0doses;1;0;0;0;0;0;0;0;0rna based treatments;1;0;0;0;0;0;0;0;0rna treatment;1;0;0;0;0;0;0;0;0rna based;1;0;0;0;0;0;0;0;0ventilator;1;0;0;0;0;0;0;0;0favipiravir;1;0;0;0;0;0;0;0;0prophylaxis;1;0;0;0;0;0;0;0;0hydroxychloroquine;1;0;0;0;0;0;0;0;0chloroquine;1;0;0;0;0;0;0;0;0baricitinib;1;0;0;0;0;0;0;0;0anticoagulation;1;0;0;0;0;0;0;0;0anticoagulant;1;0;0;0;0;0;0;0;0blood thiner;1;0;0;0;0;0;0;0;0ibuprofen;1;0;0;0;0;0;0;0;0vitamin d;1;0;0;0;0;0;0;0;0vitamin;1;0;0;0;0;0;0;0;0vitamin c;1;0;0;0;0;0;0;0;0zinc;1;0;0;0;0;0;0;0;0regeneron;1;0;0;0;0;0;0;0;0eli lilly;1;0;0;0;0;0;0;0;0quinine;1;0;0;0;0;0;0;0;0resochin;1;0;0;0;0;0;0;0;0zitromax;1;0;0;0;0;0;0;0;0azithromycin;1;0;0;0;0;0;0;0;0antibiotic;1;0;0;0;0;0;0;0;0ventilation;1;0;0;0;0;0;0;0;0
+non-invasive;1;0;0;0;0;0;0;0;0invasive;1;0;0;0;0;0;0;0;0interferon;1;0;0;0;0;0;0;0;0pre existing condition;1;0;0;0;0;0;0;0;0corticosteroids;1;0;0;0;0;0;0;0;0
+treatment;1;0;0;0;0;0;0;0;0
+treatments;1;0;0;0;0;0;0;0;0
+drug;1;0;0;0;0;0;0;0;0
+drugs;1;0;0;0;0;0;0;0;0
+asymptomatic;0;1;0;0;0;0;0;0;0symptomatic;0;1;0;0;0;0;0;0;0fever;0;1;0;0;0;0;0;0;0breath;0;1;0;0;0;0;0;0;0shortness of breath;0;1;0;0;0;0;0;0;0dry cough;0;1;0;0;0;0;0;0;0vomit;0;1;0;0;0;0;0;0;0dry cough;0;1;0;0;0;0;0;0;0tiredness;0;1;0;0;0;0;0;0;0aches;0;1;0;0;0;0;0;0;0pains;0;1;0;0;0;0;0;0;0pain;0;1;0;0;0;0;0;0;0sore throat;0;1;0;0;0;0;0;0;0
+bronchopasm;0;1;0;0;0;0;0;0;0diarrhea;0;1;0;0;0;0;0;0;0
+nasal congestion;0;1;0;0;0;0;0;0;0conjunctivitis;0;1;0;0;0;0;0;0;0headache;0;1;0;0;0;0;0;0;0
+soreness;0;1;0;0;0;0;0;0;0loss of smell;0;1;0;0;0;0;0;0;0
+thrombocytopenia;0;1;0;0;0;0;0;0;0
+loss of taste;0;1;0;0;0;0;0;0;0
+taste;0;1;0;0;0;0;0;0;0rash;0;1;0;0;0;0;0;0;0difficulty breathing;0;1;0;0;0;0;0;0;0shortness of breath;0;1;0;0;0;0;0;0;0chest pain;0;1;0;0;0;0;0;0;0chest pressure;0;1;0;0;0;0;0;0;0clot;0;1;0;0;0;0;0;0;0clotting;0;1;0;0;0;0;0;0;0diarrhoea;0;1;0;0;0;0;0;0;0sore throat;0;1;0;0;0;0;0;0;0pneumonia;0;1;0;0;0;0;0;0;0phlegm;0;1;0;0;0;0;0;0;0chills;0;1;0;0;0;0;0;0;0smell;0;1;0;0;0;0;0;0;0appetite;0;1;0;0;0;0;0;0;0ache;0;1;0;0;0;0;0;0;0
+abdominal pain;0;1;0;0;0;0;0;0;0
+vomit;0;1;0;0;0;0;0;0;0
+nausea;0;1;0;0;0;0;0;0;0dyspnea;0;1;0;0;0;0;0;0;0fatigue;0;1;0;0;0;0;0;0;0joint pain;0;1;0;0;0;0;0;0;0anosmia;0;1;0;0;0;0;0;0;0dysgeusia;0;1;0;0;0;0;0;0;0inflammatory;0;1;0;0;0;0;0;0;0
+inflammatory markers;0;1;0;0;0;0;0;0;0
+symptom;0;1;0;0;0;0;0;0;0
+symptoms;0;1;0;0;0;0;0;0;0diagnosis;0;1;0;0;0;0;0;0;0
+screening;0;0;1;0;0;0;0;0;0quarantine;0;0;1;0;0;0;0;0;0isolation;0;0;1;0;0;0;0;0;0lock down;0;0;1;0;0;0;0;0;0
+lockdown;0;0;1;0;0;0;0;0;0mask;0;0;1;0;0;0;0;0;0
+protect;0;0;1;0;0;0;0;0;0
+interaction;0;0;1;0;0;0;0;0;0
+interactions;0;0;1;0;0;0;0;0;0n95;0;0;1;0;0;0;0;0;0n 95;0;0;1;0;0;0;0;0;0ppe;0;0;1;0;0;0;0;0;0fomite;0;0;1;0;0;0;0;0;0outbreak;0;0;1;0;0;0;0;0;0personal protective equipment;0;0;1;0;0;0;0;0;0protective equipment;0;0;1;0;0;0;0;0;0
+personal equipment;0;0;1;0;0;0;0;0;0accuracy of test;0;0;1;0;0;0;0;0;0accuracy;0;0;1;0;0;0;0;0;0aerosol;0;0;1;0;0;0;0;0;0airborne;0;0;1;0;0;0;0;0;0antibody test;0;0;1;0;0;0;0;0;0antibody;0;0;1;0;0;0;0;0;0antigen test;0;0;1;0;0;0;0;0;0antigen;0;0;1;0;0;0;0;0;0asymptomatic;0;0;1;0;0;0;0;0;0case fatality ratio;0;0;1;0;0;0;0;0;0case fatality;0;0;1;0;0;0;0;0;0fatality;0;0;1;0;0;0;0;0;0contact tracing;0;0;1;0;0;0;0;0;0tracing;0;0;1;0;0;0;0;0;0diagnostic test;0;0;1;0;0;0;0;0;0
+blood test;0;0;1;0;0;0;0;0;0diagnosis;0;0;1;0;0;0;0;0;0diagnostic;0;0;1;0;0;0;0;0;0doubling time;0;0;1;0;0;0;0;0;0droplet transmission;0;0;1;0;0;0;0;0;0droplet;0;0;1;0;0;0;0;0;0epidemiology;0;0;1;0;0;0;0;0;0epidemiologist;0;0;1;0;0;0;0;0;0excess mortality;0;0;1;0;0;0;0;0;0false negative;0;0;1;0;0;0;0;0;0false positive;0;0;1;0;0;0;0;0;0flatten the curve;0;0;1;0;0;0;0;0;0flatten;0;0;1;0;0;0;0;0;0curve;0;0;1;0;0;0;0;0;0growth rate;0;0;1;0;0;0;0;0;0immunity passport;0;0;1;0;0;0;0;0;0immunity;0;0;1;0;0;0;0;0;0
+immuneincidence;0;0;1;0;0;0;0;0;0incubation period;0;0;1;0;0;0;0;0;0incubation;0;0;1;0;0;0;0;0;0infection fatality ratio;0;0;1;0;0;0;0;0;0infection;0;0;1;0;0;0;0;0;0index case;0;0;1;0;0;0;0;0;0lamp test;0;0;1;0;0;0;0;0;0rtlamp test;0;0;1;0;0;0;0;0;0lateral flow test;0;0;1;0;0;0;0;0;0mass spectrometry;0;0;1;0;0;0;0;0;0mass testing;0;0;1;0;0;0;0;0;0molecular test;0;0;1;0;0;0;0;0;0morbidity;0;0;1;0;0;0;0;0;0mortality;0;0;1;0;0;0;0;0;0non-pharmaceutical interventions;0;0;1;0;0;0;0;0;0npis;0;0;1;0;0;0;0;0;0pcr;0;0;1;0;0;0;0;0;0point-of-care test;0;0;1;0;0;0;0;0;0point-of-care;0;0;1;0;0;0;0;0;0pooled testing;0;0;1;0;0;0;0;0;0prevalence;0;0;1;0;0;0;0;0;0primary case;0;0;1;0;0;0;0;0;0reproduction number;0;0;1;0;0;0;0;0;0rapid test;0;0;1;0;0;0;0;0;0saliva test;0;0;1;0;0;0;0;0;0s gene drop-out;0;0;1;0;0;0;0;0;0s gene;0;0;1;0;0;0;0;0;0self-sampling;0;0;1;0;0;0;0;0;0sensitivity;0;0;1;0;0;0;0;0;0sequencing;0;0;1;0;0;0;0;0;0serial interval;0;0;1;0;0;0;0;0;0specificity;0;0;1;0;0;0;0;0;0super spreader;0;0;1;0;0;0;0;0;0
+spreader;0;0;1;0;0;0;0;0;0superspreader;0;0;1;0;0;0;0;0;0
+superspreading;0;0;1;0;0;0;0;0;0
+super spreading;0;0;1;0;0;0;0;0;0swab test;0;0;1;0;0;0;0;0;0self swabbing;0;0;1;0;0;0;0;0;0transmissibility;0;0;1;0;0;0;0;0;0transmission;0;0;1;0;0;0;0;0;0vaccine passport;0;0;1;0;0;0;0;0;0confirmed;0;0;1;0;0;0;0;0;0suspected;0;0;1;0;0;0;0;0;0exposed;0;0;1;0;0;0;0;0;0contagious;0;0;1;0;0;0;0;0;0infectious;0;0;1;0;0;0;0;0;0hand washing;0;0;1;0;0;0;0;0;0hygiene;0;0;1;0;0;0;0;0;0hygienic;0;0;1;0;0;0;0;0;0social distancing;0;0;1;0;0;0;0;0;0social distance;0;0;1;0;0;0;0;0;0
+mitigation;0;0;1;0;0;0;0;0;0serologic test;0;0;1;0;0;0;0;0;0
+serologic;0;0;1;0;0;0;0;0;0
+sanitizer;0;0;1;0;0;0;0;0;0
+spread;0;0;1;0;0;0;0;0;0
+contagious;0;0;1;0;0;0;0;0;0
+contagion;0;0;1;0;0;0;0;0;0
+wave;0;0;1;0;0;0;0;0;0
+containment;0;0;1;0;0;0;0;0;0
+antigens;0;0;0;1;0;0;0;0;0antigen;0;0;0;1;0;0;0;0;0antigenic;0;0;0;1;0;0;0;0;0antigenic drift;0;0;0;1;0;0;0;0;0carriage;0;0;0;1;0;0;0;0;0coronaviruses;0;0;0;1;0;0;0;0;0coronavirus;0;0;0;1;0;0;0;0;0covid-19;0;0;0;1;0;0;0;0;0dna;0;0;0;1;0;0;0;0;0endemic disease;0;0;0;1;0;0;0;0;0endemic;0;0;0;1;0;0;0;0;0gene;0;0;0;1;0;0;0;0;0mrna;0;0;0;1;0;0;0;0;0mutation;0;0;0;1;0;0;0;0;0
+mutations;0;0;0;1;0;0;0;0;0
+androgen receptor;0;0;0;1;0;0;0;0;0
+androgen;0;0;0;1;0;0;0;0;0pathogens;0;0;0;1;0;0;0;0;0
+pathogenic;0;0;0;1;0;0;0;0;0pathogen;0;0;0;1;0;0;0;0;0replication;0;0;0;1;0;0;0;0;0reservoir;0;0;0;1;0;0;0;0;0rna;0;0;0;1;0;0;0;0;0sars-cov-2;0;0;0;1;0;0;0;0;0viral shedding;0;0;0;1;0;0;0;0;0shedding;0;0;0;1;0;0;0;0;0
+ace receptor;0;0;0;1;0;0;0;0;0spike protein;0;0;0;1;0;0;0;0;0vaccine-driven selection;0;0;0;1;0;0;0;0;0vaccine escape mutants;0;0;0;1;0;0;0;0;0
+mutant;0;0;0;1;0;0;0;0;0
+rollvariant;0;0;0;1;0;0;0;0;0
+variants;0;0;0;1;0;0;0;0;0virology;0;0;0;1;0;0;0;0;0virulence;0;0;0;1;0;0;0;0;0viral load;0;0;0;1;0;0;0;0;0zoonotic disease;0;0;0;1;0;0;0;0;0zoonotic;0;0;0;1;0;0;0;0;0
+obesity;0;0;0;0;1;0;0;0;0age;0;0;0;0;1;0;0;0;0old age;0;0;0;0;1;0;0;0;0elderly;0;0;0;0;1;0;0;0;0hispanic;0;0;0;0;1;0;0;0;0hispanics;0;0;0;0;1;0;0;0;0black;0;0;0;0;1;0;0;0;0blacks;0;0;0;0;1;0;0;0;0obese;0;0;0;0;1;0;0;0;0race;0;0;0;0;1;0;0;0;0racial;0;0;0;0;1;0;0;0;0ethnic;0;0;0;0;1;0;0;0;0ethnicity;0;0;0;0;1;0;0;0;0active component;0;0;0;0;0;1;0;0;0active immune response;0;0;0;0;0;1;0;0;0
+immune response;0;0;0;0;0;1;0;0;0immune system;0;0;0;0;0;1;0;0;0adenovirus-based vaccines;0;0;0;0;0;1;0;0;0
+adenovirus;0;0;0;0;0;1;0;0;0adjuvant;0;0;0;0;0;1;0;0;0antibiotics;0;0;0;0;0;1;0;0;0drugs that prevent the growth of bacteria;0;0;0;0;0;1;0;0;0antibody;0;0;0;0;0;1;0;0;0attenuated vaccine;0;0;0;0;0;1;0;0;0b-cells;0;0;0;0;0;1;0;0;0booster dose;0;0;0;0;0;1;0;0;0cold chain;0;0;0;0;0;1;0;0;0cytokines;0;0;0;0;0;1;0;0;0disease modifying vaccine;0;0;0;0;0;1;0;0;0dna-based vaccine;0;0;0;0;0;1;0;0;0
+dna-based;0;0;0;0;0;1;0;0;0dosing interval;0;0;0;0;0;1;0;0;0eradication;0;0;0;0;0;1;0;0;0immunization;0;0;0;0;0;1;0;0;0immunity;0;0;0;0;0;1;0;0;0inactivated vaccine;0;0;0;0;0;1;0;0;0inactivated virus;0;0;0;0;0;1;0;0;0live-attenuated vaccine;0;0;0;0;0;1;0;0;0mrna vaccine;0;0;0;0;0;1;0;0;0naturally acquired immunity;0;0;0;0;0;1;0;0;0herd immunity;0;0;0;0;0;1;0;0;0neutralizing antibodies;0;0;0;0;0;1;0;0;0passive immunity;0;0;0;0;0;1;0;0;0adenovirus;0;0;0;0;0;1;0;0;0sinovac;0;0;0;0;0;1;0;0;0preservatives;0;0;0;0;0;1;0;0;0prime dose;0;0;0;0;0;1;0;0;0priority groups;0;0;0;0;0;1;0;0;0protein-based vaccine;0;0;0;0;0;1;0;0;0protein-based;0;0;0;0;0;1;0;0;0self-amplifying rna;0;0;0;0;0;1;0;0;0stabilizers;0;0;0;0;0;1;0;0;0sterilizing vaccine;0;0;0;0;0;1;0;0;0t cell;0;0;0;0;0;1;0;0;0
+t-cell;0;0;0;0;0;1;0;0;0j and j;0;0;0;0;0;1;0;0;0johnson and johnson;0;0;0;0;0;1;0;0;0moderna;0;0;0;0;0;1;0;0;0astrazeneca;0;0;0;0;0;1;0;0;0
+astra zeneca;0;0;0;0;0;1;0;0;0sputnik;0;0;0;0;0;1;0;0;0novavax;0;0;0;0;0;1;0;0;0pfizer;0;0;0;0;0;1;0;0;0janssen;0;0;0;0;0;1;0;0;0vaccination;0;0;0;0;0;1;0;0;0vaccine;0;0;0;0;0;1;0;0;0vaccine candidate;0;0;0;0;0;1;0;0;0vaccine coverage;0;0;0;0;0;1;0;0;0vaccine interval;0;0;0;0;0;1;0;0;0vaccine take up;0;0;0;0;0;1;0;0;0
+take-up;0;0;0;0;0;1;0;0;0
+take up;0;0;0;0;0;1;0;0;0
+takeup;0;0;0;0;0;1;0;0;0vectored vaccines;0;0;0;0;0;1;0;0;0
+vector vaccine;0;0;0;0;0;1;0;0;0viral-vector vaccines;0;0;0;0;0;1;0;0;0vaccines;0;0;0;0;0;1;0;0;0cdc;0;0;0;0;0;0;1;0;0ema;0;0;0;0;0;0;1;0;0fda;0;0;0;0;0;0;1;0;0who;0;0;0;0;0;0;1;0;0
+clinical trials;0;0;0;0;0;0;0;1;0phase 1;0;0;0;0;0;0;0;1;0phase 2;0;0;0;0;0;0;0;1;0phase 3;0;0;0;0;0;0;0;1;0phase 4;0;0;0;0;0;0;0;1;0effectiveness;0;0;0;0;0;0;0;1;0efficacy;0;0;0;0;0;0;0;1;0human challenge study;0;0;0;0;0;0;0;1;0
+meta-analysis;0;0;0;0;0;0;0;1;0placebo;0;0;0;0;0;0;0;1;0
+study;0;0;0;0;0;0;0;1;0
+double blind;0;0;0;0;0;0;0;1;0randomized control trial;0;0;0;0;0;0;0;1;0rct;0;0;0;0;0;0;0;1;0manuscript;0;0;0;0;0;0;0;1;0peer review;0;0;0;0;0;0;0;1;0jama;0;0;0;0;0;0;0;1;0
+journal;0;0;0;0;0;0;0;1;0
+mmwr;0;0;0;0;0;0;0;1;0
+publication;0;0;0;0;0;0;0;1;0article;0;0;0;0;0;0;0;1;0
+lancet;0;0;0;0;0;0;0;1;0
+science;0;0;0;0;0;0;0;1;0
+new england journal;0;0;0;0;0;0;0;1;0
+nature magazine;0;0;0;0;0;0;0;1;0
+bmj;0;0;0;0;0;0;0;1;0
+absolute risk;0;0;0;0;0;0;0;0;1adjusted odds ratio;0;0;0;0;0;0;0;0;1odds ratio;0;0;0;0;0;0;0;0;1odds;0;0;0;0;0;0;0;0;1relative risk;0;0;0;0;0;0;0;0;1
