@@ -64,7 +64,7 @@ vector vaccine;0;0;0;0;0;1;0;0;0viral-vector vaccines;0;0;0;0;0;1;0;0;0vaccine
 clinical trials;0;0;0;0;0;0;0;1;0phase 1;0;0;0;0;0;0;0;1;0phase 2;0;0;0;0;0;0;0;1;0phase 3;0;0;0;0;0;0;0;1;0phase 4;0;0;0;0;0;0;0;1;0effectiveness;0;0;0;0;0;0;0;1;0efficacy;0;0;0;0;0;0;0;1;0human challenge study;0;0;0;0;0;0;0;1;0
 meta-analysis;0;0;0;0;0;0;0;1;0placebo;0;0;0;0;0;0;0;1;0
 study;0;0;0;0;0;0;0;1;0
-double blind;0;0;0;0;0;0;0;1;0randomized control trial;0;0;0;0;0;0;0;1;0rct;0;0;0;0;0;0;0;1;0manuscript;0;0;0;0;0;0;0;1;0peer review;0;0;0;0;0;0;0;1;0jama;0;0;0;0;0;0;0;1;0
+double-blind;0;0;0;0;0;0;0;1;0randomized control trial;0;0;0;0;0;0;0;1;0rct;0;0;0;0;0;0;0;1;0manuscript;0;0;0;0;0;0;0;1;0peer review;0;0;0;0;0;0;0;1;0jama;0;0;0;0;0;0;0;1;0
 journal;0;0;0;0;0;0;0;1;0
 mmwr;0;0;0;0;0;0;0;1;0
 publication;0;0;0;0;0;0;0;1;0article;0;0;0;0;0;0;0;1;0
